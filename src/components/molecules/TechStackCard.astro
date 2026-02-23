@@ -1,0 +1,17 @@
+---
+import SpotlightCard from '../atoms/SpotlightCard.astro';
+
+interface Props {
+  title: string;
+  version: string;
+  description: string;
+}
+
+const { title, version, description } = Astro.props;
+---
+
+<SpotlightCard>
+  <h2 class="text-lg font-medium mb-2 text-neutral-200">{title}</h2>
+  <p class="text-neutral-500 text-sm mb-4">v{version}</p>
+  <p class="text-neutral-400 leading-relaxed">{description}</p>
+</SpotlightCard>

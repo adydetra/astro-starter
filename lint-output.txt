@@ -1,0 +1,16 @@
+
+D:\Dewa\Starter\astro-starter\README.md
+  18:2  error  Irregular whitespace not allowed  no-irregular-whitespace
+  19:2  error  Irregular whitespace not allowed  no-irregular-whitespace
+  19:6  error  Irregular whitespace not allowed  no-irregular-whitespace
+  20:2  error  Irregular whitespace not allowed  no-irregular-whitespace
+  21:2  error  Irregular whitespace not allowed  no-irregular-whitespace
+  21:6  error  Irregular whitespace not allowed  no-irregular-whitespace
+  22:2  error  Irregular whitespace not allowed  no-irregular-whitespace
+  23:2  error  Irregular whitespace not allowed  no-irregular-whitespace
+  23:6  error  Irregular whitespace not allowed  no-irregular-whitespace
+  24:2  error  Irregular whitespace not allowed  no-irregular-whitespace
+  25:2  error  Irregular whitespace not allowed  no-irregular-whitespace
+
+✖ 11 problems (11 errors, 0 warnings)
+
