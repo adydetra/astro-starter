@@ -10,13 +10,13 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.2.1",
-    "astro": "^5.17.3",
-    "tailwindcss": "^4.2.1"
+    "@tailwindcss/vite": "^4.2.2",
+    "astro": "^6.1.6",
+    "tailwindcss": "^4.2.2"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^7.4.3",
-    "eslint": "^10.0.1",
-    "eslint-plugin-astro": "^1.6.0"
+    "@antfu/eslint-config": "^8.2.0",
+    "eslint": "^10.2.0",
+    "eslint-plugin-astro": "^1.7.0"
   }
 }
