@@ -6,6 +6,35 @@ A lightweight Astro starter template built with Vite and Tailwind CSS. Fast deve
 
 ---
 
+## Features
+
+- 🚀 **Astro** - The web framework for content-driven websites
+- ⚡ **Vite** - Next generation frontend tooling
+- 🎨 **Tailwind CSS** - Utility-first CSS framework
+- 📝 **ESLint** - Code quality and consistency
+- 🔥 **HMR** - Fast refresh during development
+
+---
+
+## Project Structure
+
+```text
+├── docs/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── atoms/
+│   │   ├── molecules/
+│   │   └── organism/
+│   ├── pages/
+│   └── styles/
+├── AGENTS.md
+├── astro.config.mjs
+└── package.json
+```
+
+---
+
 ## Getting Started
 
 ### Requirements
@@ -49,35 +78,6 @@ The development server will start at `http://localhost:4321`
 - `bun run preview` - Preview the production build locally
 - `bun run astro` - Run the Astro CLI
 - `bun run lint` - Run ESLint to check code quality
-
----
-
-## Project Structure
-
-```text
-├── docs/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── atoms/
-│   │   ├── molecules/
-│   │   └── organism/
-│   ├── pages/
-│   └── styles/
-├── AGENTS.md
-├── astro.config.mjs
-└── package.json
-```
-
----
-
-## Features
-
-- 🚀 **Astro** - The web framework for content-driven websites
-- ⚡ **Vite** - Next generation frontend tooling
-- 🎨 **Tailwind CSS** - Utility-first CSS framework
-- 📝 **ESLint** - Code quality and consistency
-- 🔥 **HMR** - Fast refresh during development
 
 ---
 
