@@ -52,6 +52,25 @@ The development server will start at `http://localhost:4321`
 
 ---
 
+## Project Structure
+
+```text
+├── docs/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── atoms/
+│   │   ├── molecules/
+│   │   └── organism/
+│   ├── pages/
+│   └── styles/
+├── AGENTS.md
+├── astro.config.mjs
+└── package.json
+```
+
+---
+
 ## Features
 
 - 🚀 **Astro** - The web framework for content-driven websites
