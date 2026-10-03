@@ -1,7 +1,7 @@
 # Astro Starter ⚡
 
 ![Static Badge](https://img.shields.io/badge/license-MIT-brightgreen?label=LICENSE)
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/adydetra/astro-starter)
+[![Open in StackBlitz](https://img.shields.io/badge/Open_in-StackBlitz-1389FD?logo=stackblitz&logoColor=white)](https://stackblitz.com/github/adydetra/astro-starter)
 
 A lightweight Astro starter template built with Vite and Tailwind CSS. Fast development environment with modern tooling out of the box.
 
